@@ -1,0 +1,32 @@
+body{
+    background-color:lightblue;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+p{
+    color:rgb(38, 61, 53);   
+    font-size: 30px;
+}
+
+img{
+    border: 2px solid black; /*ancho -  tipo - color */
+}
+
+ol{
+    list-style-type: circle;
+}
+li{
+    margin-bottom: 20px;
+}
+
+a{
+    color:blueviolet;
+}
+a:hover{
+    text-decoration: underline;
+    color:turquoise;
+}
